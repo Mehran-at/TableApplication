@@ -1,3 +1,10 @@
+// Hansel just finished building his new wardrobe. After a short break, he decides it’s time to build the table he bought for the TV. Just like the last time, he reads the instructions and follows the steps in the right order.
+//   . Develop the code that builds the tv-table in different steps adding its parts one by one (like in the exercise 6) following the instructions below:
+//   . Reuse the classes and interfaces from exercise 6 that you consider necessary.
+//   . You need at least the following classes: TvTable, TvTableBuilder.
+//   . The table needs the following parts to be finished: four legs, one shelf and one top.
+//   . Create the TvTableBuilderTest that ensures that the tables are being built correctly.
+
 public class TableApplication {
     public static void main(String[] args) {
         Wardrobe wardrobe = new Wardrobe();
